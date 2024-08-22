@@ -1,13 +1,8 @@
 ## Olá! eu sou o Hercules
 
 <div>
-  <a href="https://github.com/Hercules-08">
- <img height="180em" src="https://github-readme-stats.vercel.app/api?username=
-BreadcrumbsHercules-08
-&show_icons=true&theme=radical">
- <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=
-BreadcrumbsHercules-08
-&layout=compact&theme=radical">
+ <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Hercules-08&show_icons=true&theme=tokyonight">
+ <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Hercules-08&layout=compact&theme=tokyonight">
 </div>
 
 <div style="display: inline_block"><br>
