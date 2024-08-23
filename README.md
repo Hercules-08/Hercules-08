@@ -1,16 +1,12 @@
 ### Olá! eu sou o Hercules!
 
+
 <div>
- <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Hewllsing&show_icons=true&theme=radical">
- <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Hewllsing&layout=compact&theme=radical">
+ <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Hercules-08&show_icons=true&theme=radical">
+ <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Hercules-08&layout=compact&theme=radical">
 </div>
 
 ##
-
-<!--<div align="center">
- <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Hercules-08&show_icons=true&theme=tokyonight">
- <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Hercules-08&layout=compact&theme=tokyonight">
-</div>-->
 
 <!--
 <div style="display: inline_block"><br>
