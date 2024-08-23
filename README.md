@@ -1,9 +1,9 @@
 ### Olá! eu sou o Hercules!
 
 
-<div>
- <a><img height="180em" src="https://github-readme-stats.vercel.app/api?username=Hercules-08&show_icons=true&theme=tokyonight"></a>
- <a><img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Hercules-08&layout=compact&theme=tokyonight"></a>
+<div align="center">
+ <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Hercules-08&show_icons=true&theme=tokyonight">
+ <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Hercules-08&layout=compact&theme=tokyonight">
 </div>
 
 ##
