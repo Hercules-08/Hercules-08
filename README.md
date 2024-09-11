@@ -2,8 +2,8 @@
 
 
 <div>
- <img height="210em" width="465.5%" src="https://github-readme-stats.vercel.app/api?username=Hercules-08&show_icons=true&theme=tokyonight">
- <img height="210em" width="500%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Hercules-08&layout=compact&theme=tokyonight">
+ <img height="180em" width="465.5%" src="https://github-readme-stats.vercel.app/api?username=Hercules-08&show_icons=true&theme=tokyonight">
+ <img height="180em" width="500%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Hercules-08&layout=compact&theme=tokyonight">
 </div>
 
 ##
